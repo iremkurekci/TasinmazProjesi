@@ -1,0 +1,74 @@
+﻿@model Taşınmaz_Projesi.Models.Tasinmaz
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Tasinmaz</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Il)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Il)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilce)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilce)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mahalle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mahalle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ada)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Parsel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Parsel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nitelik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nitelik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adres)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TasinmazID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

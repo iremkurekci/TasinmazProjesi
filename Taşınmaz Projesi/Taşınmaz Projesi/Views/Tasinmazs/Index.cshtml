@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Taşınmaz_Projesi.Models.Tasinmaz>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Il)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ilce)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mahalle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ada)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Parsel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nitelik)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adres) <!---başlık-->
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Il) <!--içerik-->
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ilce)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mahalle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ada)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Parsel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nitelik)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adres)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TasinmazID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TasinmazID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TasinmazID })
+        </td>
+    </tr>
+}
+
+</table>

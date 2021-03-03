@@ -1,0 +1,103 @@
+﻿@model Taşınmaz_Projesi.Models.Kullanici
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Kullanıcı Güncelle</h2>
+<br />
+<br />
+<br />
+
+<div style="float:left">@Html.ActionLink("Çıkış", "Cıkıs", "Login", null, new { @class = "btn-default" })</div>
+<br /><br /><br />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken(); 
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.KullaniciID)
+
+    <div class="form-group" style="float:left" id="leftpart">
+        <div style="margin:50px">
+            @Html.EditorFor(model => model.KullaniciAdi, new { htmlAttributes = new { @class = "form-control", Placeholder = "Ad", maxlength = "25" } })
+            @Html.ValidationMessageFor(model => model.KullaniciAdi, "", new { @class = "text-danger" })
+        </div>
+        <div style="margin:50px">
+            @Html.EditorFor(model => model.KullaniciSoyadi, new { htmlAttributes = new { @class = "form-control", Placeholder = "Soyad", maxlength = "25" } })
+            @Html.ValidationMessageFor(model => model.KullaniciSoyadi, "", new { @class = "text-danger" })
+        </div>
+        <div style="margin:50px">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", Placeholder = "E-mail" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+        <div style="margin:50px">
+            @Html.EditorFor(model => model.Parola, new { htmlAttributes = new { @class = "form-control", Placeholder = "Parola", maxlength = "25" } })
+            @Html.ValidationMessageFor(model => model.Parola, "", new { @class = "text-danger" })
+        </div>
+        <div style="margin:50px">
+            @*@Html.EditorFor(model => model.Rol, new { htmlAttributes = new { @class = "form-control", Placeholder = "Rol" } })*@
+            <select required class="form-control" id="Rol" name="Rol">
+                <option value="" disabled selected hidden>Rol</option>
+                <option>Yönetici</option>
+                <option>Kullanıcı</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.Rol, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group" style="float:left">
+        <div id="adres">
+            @Html.EditorFor(model => model.Adres, new { htmlAttributes = new { @class = "form-control", Placeholder = "Adres", @rows = 15, @cols = 30 } })
+            @Html.ValidationMessageFor(model => model.Adres, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="col-md-offset-6 col-md-6">
+        <input type="submit" value="Güncelle" class="btn-primary" />
+    </div>
+    <div class="clear"></div>
+
+</div>
+    <style type="text/css">
+        .clear {
+            clear: both;
+        }
+
+        #adres {
+            margin-left: 150px;
+            margin-top: 50px;
+            resize: none;
+        }
+
+        .form-control {
+            border: 1px solid;
+            border-radius: 40px;
+            width: 300px;
+            height: 60px;
+            padding: 20px;
+            resize: none;
+        }
+
+        .btn-primary {
+            width: 150px;
+            height: 60px;
+            border: 1px solid;
+            border-radius: 40px;
+        }
+
+        .btn-default {
+            border: 1px solid;
+            border-radius: 50%;
+            width: 70px;
+            height: 70px;
+            outline: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 25px;
+            padding-top: 25px;
+        }
+    </style>
+}
+
+
+

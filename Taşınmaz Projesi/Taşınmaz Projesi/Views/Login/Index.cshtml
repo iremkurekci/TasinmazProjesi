@@ -1,0 +1,100 @@
+﻿@model Taşınmaz_Projesi.Models.Login
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@if (Session["Kullanici"] == null)
+{
+
+    <h2>Anasayfa</h2>
+    <br />
+    @ViewBag.error
+    <div>
+        <div style="float: left"><input type="button" value="Kaydol" class="btn-default" /></div>
+    </div>
+    <br />
+    <br />
+    <br />
+    using (Html.BeginForm("Login", "Login", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken();
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.KullaniciID)
+            <div style="margin:50px">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", Placeholder = "Email" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+            <div style="margin:50px">
+                @Html.EditorFor(model => model.Parola, new { htmlAttributes = new { @class = "form-control", Placeholder = "Parola", Type = "password" } })
+                @Html.ValidationMessageFor(model => model.Parola, "", new { @class = "text-danger" })
+                <br />
+                <div class="btn-link">@Html.ActionLink("Şifremi Unuttum", "")</div>
+            </div>
+            <div>
+                @*@Html.ActionLink("Giriş", "Login", "Login", null, new { @class = "btn-primary" })*@
+                <button type="submit" class="btn-primary" onclick='window.location.href = "@Url.Action("Login", "Login", routeValues: null)"'>Giriş</button>
+                @*<input type="submit" value="Giriş" class="btn-primary" />*@
+                <br />
+                <br />
+                <br />
+            </div>
+        </div>
+    }
+    if(TempData["Message"] != null)
+    {
+        <h3>@TempData["Message"]</h3>
+    }
+}
+else
+{
+
+    <script type="text/javascript">
+        var openUrl = '@Url.Action("Index", "Tasinmaz")';
+        window.location.href = openUrl;
+    </script>
+}
+
+<style>
+    h3{
+        color: red;
+    }
+    .form-control {
+        border: 1px solid;
+        border-radius: 40px;
+        width: 300px;
+        height: 60px;
+        padding: 20px;
+        resize: none;
+        margin-left: 300px;
+    }
+
+    .btn-primary {
+        width: 150px;
+        height: 60px;
+        border: 1px solid;
+        border-radius: 40px;
+        margin-left: 430px;
+        outline: none;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .btn-default {
+        border: 1px solid;
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+        outline: none;
+    }
+
+    .btn-link {
+        margin-left: 460px;
+    }
+</style>
+
+

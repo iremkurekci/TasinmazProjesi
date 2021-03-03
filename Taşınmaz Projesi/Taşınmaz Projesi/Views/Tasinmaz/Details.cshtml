@@ -1,0 +1,84 @@
+﻿@model Taşınmaz_Projesi.Models.Tasinmaz
+@using (Html.BeginForm())
+{
+    {
+        ViewBag.Title = "Details";
+    }
+    <h2>Detaylar</h2>
+    <br />
+    <br />
+    <br />
+    <div style="float:left">@Html.ActionLink("Çıkış", "Cıkıs", "Login", null, new { @class = "btn-default" })</div>
+    <br />
+    <br />
+    <br />
+    <table class="table" id="tbl">
+        <tr>
+            <th>
+                <!--align = center in <th> -->
+                @Html.DisplayNameFor(model => model.Il) 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ilce)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mahalle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Parsel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nitelik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adres)
+            </th>
+            <th></th>
+        </tr>
+
+        <tr>
+            <td>
+                <!--align = left in <td> -->
+                @Html.DisplayFor(model => model.Il) 
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Ilce)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Mahalle)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Ada)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Parsel)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Nitelik)
+            </td>
+            <td>
+                @Html.DisplayFor(model => model.Adres)
+            </td>
+
+        </tr>
+
+
+    </table>
+    <style>
+        .btn-default {
+            border: 1px solid;
+            border-radius: 50%;
+            width: 70px;
+            height: 70px;
+            outline: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 25px;
+            padding-top: 25px;
+        }
+    </style>
+}
+

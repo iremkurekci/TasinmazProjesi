@@ -1,0 +1,368 @@
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.dll.config
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.exe
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.exe.config
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.rsp
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.exe
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.exe.config
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.rsp
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Console.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.exe
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.exe.config
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.rsp
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Antlr3.Runtime.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Newtonsoft.Json.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Helpers.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Mvc.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Optimization.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Razor.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\WebGrease.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Helpers.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Mvc.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Optimization.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Razor.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Newtonsoft.Json.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csprojAssemblyReference.cache
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.CoreCompileInputs.cache
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.CopyComplete
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Buffers.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Collections.Immutable.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Memory.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Numerics.Vectors.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Reflection.Metadata.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Buffers.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Collections.Immutable.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Memory.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Numerics.Vectors.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Reflection.Metadata.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceca40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlcecompact40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceer40EN.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceme40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceqp40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlcese40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceca40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlcecompact40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceer40EN.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceme40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceqp40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlcese40.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EPPlus.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Annotation.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Owin.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.Shared.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\NPoco.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Owin.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Semver.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Process.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Thread.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Filters.Expressions.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.Reader.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Settings.AppSettings.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Async.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.File.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Map.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Superpower.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Data.SqlServerCe.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Net.Http.Formatting.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.ValueTuple.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Core.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Core.Providers.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Web.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Licensing.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EPPlus.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Annotation.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Owin.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.Shared.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Semver.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Thread.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Filters.Expressions.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.Reader.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Async.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.File.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Map.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Superpower.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Net.Http.Formatting.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.ValueTuple.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.pdb
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.Mvc.dll
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.Mvc.xml
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz_Projesi.Migrations.tasinmaz.resources
+C:\Users\İrem Kürekçi\Source\Repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.GenerateResource.cache
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceca40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlcecompact40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceer40EN.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceme40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlceqp40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\amd64\sqlcese40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceca40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlcecompact40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceer40EN.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceme40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlceqp40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\x86\sqlcese40.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.dll.config
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Taşınmaz Projesi.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.exe
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.exe.config
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csc.rsp
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.exe
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.exe.config
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\csi.rsp
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.AppContext.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Console.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Net.Http.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.exe
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.exe.config
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\vbc.rsp
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Antlr3.Runtime.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.SqlServer.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EPPlus.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Annotation.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Owin.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.Shared.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Newtonsoft.Json.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\NPoco.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Owin.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.Mvc.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Semver.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Process.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Thread.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Filters.Expressions.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.Reader.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Settings.AppSettings.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Async.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.File.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Map.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Superpower.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Buffers.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Collections.Immutable.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Data.SqlServerCe.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Memory.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Net.Http.Formatting.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Numerics.Vectors.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Reflection.Metadata.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.ValueTuple.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Helpers.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Mvc.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Optimization.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Razor.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Core.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Core.Providers.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Forms.Web.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Licensing.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\WebGrease.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EntityFramework.SqlServer.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\EPPlus.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Annotation.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\LightInject.Web.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.Owin.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\MiniProfiler.Shared.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\PagedList.Mvc.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Semver.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Enrichers.Thread.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Filters.Expressions.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Formatting.Compact.Reader.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Async.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.File.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Serilog.Sinks.Map.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Superpower.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Buffers.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Collections.Immutable.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Memory.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Net.Http.Formatting.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Numerics.Vectors.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Reflection.Metadata.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.ValueTuple.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Helpers.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Mvc.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Optimization.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.Razor.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Newtonsoft.Json.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Umbraco.Core.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Antlr3.Runtime.pdb
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csprojAssemblyReference.cache
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz_Projesi.Migrations.tasinmaz.resources
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.GenerateResource.cache
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.CoreCompileInputs.cache
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.csproj.CopyComplete
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.dll
+C:\Users\iremk\source\repos\Taşınmaz Projesi\Taşınmaz Projesi\obj\Debug\Taşınmaz Projesi.pdb

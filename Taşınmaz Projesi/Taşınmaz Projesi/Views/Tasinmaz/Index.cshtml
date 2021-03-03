@@ -1,0 +1,150 @@
+﻿@model PagedList.IPagedList<Taşınmaz_Projesi.Models.Tasinmaz>
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Taşınmaz Listesi</h2>
+<br />
+<br />
+<br />
+<div>
+    <div style="float:left">@Html.ActionLink("Çıkış", "Cıkıs", "Login", null, new { @class = "btn-default" })</div>
+    @*null: route value yani ASP.NET MVC’de Routing aslında URI ile action’ın eşleştirilmesinden başka birşey değildir.*@
+    <div style="float: right">@Html.ActionLink("Yeni Taşınmaz Ekle", "Create")</div>
+</div>
+<br />
+<br />
+@using (Html.BeginForm("Index", "Tasinmaz", FormMethod.Get))
+{
+    <p>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "textbox", placeholder = "Aramak istediğiniz değeri giriniz" })
+        <button type="submit" class="btn btn-info" onclick='window.location.href = "@Url.Action("Index", "Login", routeValues: null)"'>
+            <span class="glyphicon glyphicon-search"></span> Ara
+        </button>
+    </p>
+}
+<br />
+<br />
+<br />
+
+<table class="table" id="tbl1">
+    <tr>
+        <th align="center">İl</th> <!--displaynamefor => başlık-->
+
+        <th align="center">İlçe</th>
+
+        <th align="center">Mahalle</th>
+
+        <th align="center">Ada</th>
+
+        <th align="center">Parsel</th>
+
+        <th align="center">Nitelik</th>
+
+        <th align="center">Adres</th>
+        <th></th>
+
+    </tr>
+    @if (Model.Count() == 0)
+    {
+        <tr>
+            <td colspan="7"> Gösterilecek bir satır bulunmamaktadır</td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                @*align = left in*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Il) @*içerik*@
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ilce)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mahalle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ada)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Parsel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nitelik)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adres)
+                </td>
+                <td>
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.TasinmazID })
+                    @Html.ActionLink("Sil", "Delete", new { id = item.TasinmazID },
+                            new { onclick = "return confirm('Bu taşınmaza ait bilgiler silinecek');" })
+                    @Html.ActionLink("Rapor", "Details", new { id = item.TasinmazID })
+                </td>
+            </tr>
+        }
+    }
+</table>
+<br />
+<div class="col-md-5">
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+</div>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilter = ViewBag.CurrentFilter }))
+
+
+
+@*<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+
+    <link href="~/Content/DataTables/css/dataTables.bootstrap.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/buttons/1.6.2/js/dataTables.buttons.min.js"></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>*@
+
+<style>
+    .textbox {
+        border: 1px solid;
+        border-radius: 40px;
+        width: 50%;
+        height: 60px;
+        padding: 20px;
+        resize: none;
+        margin-right: 10px;
+        align-content: center;
+        outline: none;
+    }
+
+    .glyphicon glyphicon-search {
+        border: 1px solid;
+        border-radius: 40px;
+        width: 100px;
+        height: 60px;
+        padding: 20px;
+        resize: none;
+    }
+
+    form {
+        text-align: center;
+    }
+
+    .btn-default {
+        border: 1px solid;
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+        outline: none;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+</style>

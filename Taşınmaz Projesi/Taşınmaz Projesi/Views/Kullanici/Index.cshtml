@@ -1,0 +1,135 @@
+﻿@model PagedList.IPagedList<Taşınmaz_Projesi.Models.Kullanici>
+<!--IEnumerable for the parent view.-->
+@using PagedList;
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Kullanıcı Listesi</h2>
+<br />
+<br />
+<br />
+<div>
+    <div style="float:left">@Html.ActionLink("Çıkış", "Cıkıs", "Login", null, new { @class = "btn-default" })</div>
+    <div style="float: right">@Html.ActionLink("Yeni Kullanıcı Ekle", "Create")</div>
+</div>
+<br />
+<br />
+@using (Html.BeginForm("Index", "Kullanici", FormMethod.Get))
+{
+<p>
+    @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "textbox", placeholder = "Aramak istediğiniz değeri giriniz" })
+    <button type="submit" class="btn btn-info" onclick='window.location.href = "@Url.Action("Index", "Login", routeValues: null)"'>
+        <span class="glyphicon glyphicon-search"></span> Ara
+    </button>
+</p>
+}
+
+<br />
+<br />
+<br />
+<table class="table">
+
+    <tr>
+        <th align="center">Kullanıcı ID</th> <!--displaynamefor => başlık-->
+
+        <th align="center">Ad</th>
+
+        <th align="center">Soyad</th>
+
+        <th align="center">E-mail</th>
+
+        <th align="center">Rol</th>
+
+        <th align="center">Adres</th>
+        <th></th>
+
+    </tr>
+    @if (Model.Count() == 0)
+    {
+        <tr>
+            <td colspan="7"> Gösterilecek bir satır bulunmamaktadır</td>
+        </tr>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.KullaniciID)</td> <!--displayfor => içerik-->
+
+                <td>@Html.DisplayFor(modelItem => item.KullaniciAdi)</td>
+
+                <td>@Html.DisplayFor(modelItem => item.KullaniciSoyadi)</td>
+
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+
+                <td>@Html.DisplayFor(modelItem => item.Rol)</td>
+
+                <td>@Html.DisplayFor(modelItem => item.Adres)</td>
+
+                <td>
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.KullaniciID })
+                    @Html.ActionLink("Sil", "Delete", new { id = item.KullaniciID },
+                         new { onclick = "return confirm('Bu kullanıcıya ait bilgiler silinecek');" })
+                    @Html.ActionLink("Rapor", "Details", new { id = item.KullaniciID })
+                </td>
+            </tr>
+
+        }
+    }
+</table>
+<br />
+<div class="col-md-5">
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+</div>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilter = ViewBag.CurrentFilter }))
+
+<style>
+    .textbox {
+        border: 1px solid;
+        border-radius: 40px;
+        width: 50%;
+        height: 60px;
+        padding: 20px;
+        resize: none;
+        margin-right: 10px;
+        align-content: center;
+        outline: none;
+    }
+
+    .glyphicon glyphicon-search {
+        border: 1px solid;
+        border-radius: 40px;
+        width: 100px;
+        height: 60px;
+        padding: 20px;
+        resize: none;
+        outline: none;
+    }
+    .btn-info{
+        outline:none;
+    }
+
+    form {
+        text-align: center;
+    }
+
+    .btn-default {
+        border: 1px solid;
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+        outline: none;
+        padding-left:20px;
+        padding-right:20px;
+        padding-bottom: 25px;
+        padding-top:25px;
+    }
+    
+</style>
+
+
+
+
